@@ -1,18 +1,17 @@
 {
-  "name": "selenium",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha --timeout 20000"
-  },
-  "keywords": [],
-  "author": "Amra Dzihic",
-  "license": "ISC",
-  "description": "Prvi node.js projekat",
-  "type": "module",
-  "dependencies": {
-    "chai": "^5.1.2",
-    "mocha": "^11.0.1",
-    "selenium-webdriver": "^4.27.0"
-  }
+    "name": "selenium",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha --timeout 20000"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "chai": "^5.1.2",
+        "mocha": "^11.1.0",
+        "selenium-webdriver": "^4.28.1"
+    }
 }

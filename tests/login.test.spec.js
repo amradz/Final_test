@@ -1,6 +1,6 @@
 import { Browser, Builder, WebDrive } from "selenium-webdriver";
 import { expect } from "chai";
-import { LoginPage } from '../pages/login.page.js';
+import { LoginPage } from "../pages/login.page.js";
 
 describe("Login Tests", function() {
     /** @type {WebDriver} */
